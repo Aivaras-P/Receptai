@@ -9,7 +9,7 @@ export const recipes = {
         "1l daržovių sultinio",
         "Druska, pipirai"
       ],
-      instructions: "Moliūgą supjaustyk, virk sultinyje 20 min, sutrink blenderiu.",
+      instructions: "Moliūgą supjaustyti ir idėti į sultinį, kartu pagardinti su svogūnų, druska ir pipirais ir maždaug virti sultinyje apie 20 minučių, o po to galiausiai sutrinti blenderiu.",
     },
   ],
   desserts: [
@@ -21,7 +21,7 @@ export const recipes = {
         "1 kiaušinis",
         "2 šaukštai medaus"
       ],
-      instructions: "Sumaišyk ingredientus, kepk 180°C 15 minučių.",
+      instructions: "Sumaišyti ingredientus dubenėlyje, jeigu turite apvalios formos indą, tai į skardą kartu su indo pagalba supilti mišinį padarant kiek įmanomą formu ir kepti orkaitėje įkaitintoje 180°C apie 15 minučių.",
     },
   ],
   main: [
@@ -29,10 +29,11 @@ export const recipes = {
       id: "main1",
       title: "Kepta vištienos krūtinėlės filė",
       ingredients: [
+        "10g sutrintų džiūvesėlių",
         "1 vištienos krūtinėlė",
         "Druska, pipirai, alyvuogių aliejus"
       ],
-      instructions: "Paskanink, kepk keptuvėje 8-10 minučių iš abiejų pusių.",
+      instructions: "Vištienos krutinėlę išvolioti sutrintuose džiūvesėliuose ir abi puses pagardinti druska ir pipirais, į keptuvę įpilti alyvuogių aliejaus ir kepti vištienos krutinėlę keptuvėje 8-10 minučių iš abiejų pusių.",
     },
   ]
 };
